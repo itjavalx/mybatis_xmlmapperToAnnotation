@@ -96,7 +96,7 @@ public class Main {
 
         String str = null;
         while ((str = bufferedReader.readLine()) != null) {
-//            System.out.println(str);
+        //System.out.println(str);
 
             list.add(str);
         }
